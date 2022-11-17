@@ -1,0 +1,10 @@
+.EmployeeList > table {
+    width: 100%;
+    height: 100%;
+}
+
+.EmployeeList th {
+    font-size: x-large;
+    font-weight: bold;
+    border-bottom: 1px solid;
+}

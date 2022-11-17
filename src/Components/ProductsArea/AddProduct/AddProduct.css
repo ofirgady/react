@@ -1,0 +1,17 @@
+.AddProduct > form {
+    width: 250px;
+}
+
+.AddProduct input, .AddProduct button {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+}
+
+.AddProduct span {
+    color: darkred;
+    font-style: oblique;
+    margin: 0 20px;
+    position: absolute;
+    font-weight: bolder;
+}
